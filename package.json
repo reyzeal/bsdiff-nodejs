@@ -4,7 +4,7 @@
   "version": "2.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Exoway/bsdiff-nodejs.git"
+    "url": "git+https://github.com/reyzeal/bsdiff-nodejs.git"
   },
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "binary": {
     "module_name": "bsdiff",
     "module_path": "./build/Release/",
-    "host": "https://github.com/Exoway/bsdiff-nodejs/releases/download/",
+    "host": "https://github.com/reyzeal/bsdiff-nodejs/releases/download/",
     "remote_path": "{version}"
   },
   "keywords": [
